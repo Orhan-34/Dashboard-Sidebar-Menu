@@ -1,10 +1,10 @@
 ## Dashboard Sidebar Menu | Dark-Light Mode
----
-#### Only use html, css and javascript
+
+### Only Html, Css and Javascript
 
 
 ### Dashboard | Light-Mode
-![Markdown Page](/project-pages/Dashboard light-mode-page.png)
+![Markdown Page]()
 
 ### Dashboard | Dark-Mode
-![Markdown Page](/project-pages/Dashboard dark-mode-page.png) 
+[Markdown dark-mode](/project-pages/Dashboard dark-mode-page.png) 
